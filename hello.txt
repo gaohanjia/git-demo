@@ -3,7 +3,3 @@ hello han2
 hello han3
 hello han4
 hello han5
-hello han6
-hello han7
-hello han8
-hello han9
